@@ -38,7 +38,7 @@ sections:
           need us most.  
 
 
-          **Our integrity and your satisfaction is very important to us.** This is why we have a minimum **10 year no-hassle warranty** on all our work. With a option 20-30 year warranty you can see why we have been in business in the north central florida area for so long.
+          **Our integrity and your satisfaction is very important to us.** This is why we have a minimum **10 year no-hassle warranty** on all our work.
         image: /images/image000000-1-copy.jpg
         actions:
           - label: Learn More
