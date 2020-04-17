@@ -13,23 +13,31 @@ sections:
   - type: section_features
     title: Features
     section_id: features
-    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a
-      metus quis lorem malesuada luctus.
+    subtitle: See what we can do for you
     background: gray
     features:
-      - title: The Best Feature of Your Services
-        content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: /images/img_1918-2.jpg
+      - title: We only use GARDNER® STA-KOOL® ULTRA
+        content: Gardner® Sta-Kool® Ultra, Elastomeric Premium White Roof Coating offers
+          next generation solar protection with cool roof technology
+          enhancements. Sta-Kool® Ultra helps **block heat-causing sunlight**
+          while protecting the underlying roof surfaces from UV damage. This
+          weather-tite product can help **lower cooling costs** in buildings
+          that use air conditioning. This product reduces the roof surface
+          temperature, which in turn lowers heat gain that penetrates through
+          the roof surface. Cooling equipment operates more efficiently with the
+          **reduced roof temperatures.**
+        image: /images/gadner.jpg
         actions:
           - label: Learn More
             url: /features
-      - title: Awesome Feature of Your Services
-        content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
+      - title: "30 years of experience "
+        content: With over **30 years of experience** we have the knowledge to fix your
+          problem right the first time. **Our integrity and your satisfaction is
+          very important to us.** This is why we have a minimum **10 year
+          no-hassle warranty** on all our work. With a option 20-30 year
+          warranty you can see why we have been in business in the north central
+          florida area for so long.
+        image: /images/gadner.jpg
         actions:
           - label: Learn More
             url: /features
@@ -37,9 +45,9 @@ sections:
         content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
-        image: images/feature3.png
+        image: /images/img_1918-2.jpg
         actions:
-          - label: Learn More
+          - label: Call Now
             url: /features
   - type: section_reviews
     title: Testimonials
@@ -62,15 +70,11 @@ sections:
         content: Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - type: section_cta
-    title: This Is Call To Action Block!
+    title: Call Us Now For A Free Estimate In Minutes
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Let's get started and take that leak off your mind
     actions:
-      - label: Get Started
-        url: /signup
-  - type: section_posts
-    title: Latest Posts
-    section_id: recent-posts
-    background: gray
+      - label: Call Now
+        url: tel:+17272822954
 template: landing
 ---
