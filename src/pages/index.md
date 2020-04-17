@@ -6,7 +6,7 @@ sections:
     section_id: hero
     content: Save yourself thousands by using our service. Have peace of mind with
       our Minimum 10 year guarantee
-    image: images/hero.png
+    image: /images/img_1914.jpg
     actions:
       - label: Learn More
         url: /features
@@ -21,7 +21,7 @@ sections:
         content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
-        image: images/feature1.png
+        image: /images/img_1918-2.jpg
         actions:
           - label: Learn More
             url: /features
