@@ -16,6 +16,33 @@ sections:
     subtitle: See what we can do for you
     background: gray
     features:
+      - title: All The Comfort Of A New Roof At A Fraction Of The Cost
+        content: Elastomeric coatings have been featured in [Article
+          Insider](https://www.epdmcoatings.com/page99.html), as well as
+          [Roofers Exchange](https://www.epdmcoatings.com/roofarticle.html),
+          Building Service Management and recently won Metal Roofing Magazines
+          product of the year. Since it’s the only liquid form of EPDM rubber in
+          the world, made right here in the U.S.A. there are many distinct
+          advantages to the product vs other roof coatings. It waterproof as
+          soon as it is applied, will take standing water indefinitely yes that
+          means 365 days a year of continued ponding water.
+        image: /images/img_1918-2.jpg
+        actions:
+          - label: Call Now
+            url: /features
+      - title: 30 years of experience in North Central Flordia
+        content: >-
+          With over **30 years of experience** we have the knowledge to fix your
+          problem right the first time. Located in Newberry Florida we are
+          central in the tri-county area and ready to be there for you when you
+          need us most.  
+
+
+          **Our integrity and your satisfaction is very important to us.** This is why we have a minimum **10 year no-hassle warranty** on all our work. With a option 20-30 year warranty you can see why we have been in business in the north central florida area for so long.
+        image: /images/image000000-1-copy.jpg
+        actions:
+          - label: Learn More
+            url: /features
       - title: We only use GARDNER® STA-KOOL® ULTRA
         content: Gardner® Sta-Kool® Ultra, Elastomeric Premium White Roof Coating offers
           next generation solar protection with cool roof technology
@@ -29,25 +56,6 @@ sections:
         image: /images/gadner.jpg
         actions:
           - label: Learn More
-            url: /features
-      - title: "30 years of experience "
-        content: With over **30 years of experience** we have the knowledge to fix your
-          problem right the first time. **Our integrity and your satisfaction is
-          very important to us.** This is why we have a minimum **10 year
-          no-hassle warranty** on all our work. With a option 20-30 year
-          warranty you can see why we have been in business in the north central
-          florida area for so long.
-        image: /images/gadner.jpg
-        actions:
-          - label: Learn More
-            url: /features
-      - title: Cool Feature of Your Services
-        content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: /images/img_1918-2.jpg
-        actions:
-          - label: Call Now
             url: /features
   - type: section_reviews
     title: Testimonials
