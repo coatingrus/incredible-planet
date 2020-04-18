@@ -78,18 +78,15 @@ sections:
     background: white
     reviews:
       - author: John Doe
-        avatar: images/review1.jpg
+        avatar: ""
         content: "Tom is great at what he does! Refinished my roof and I am very happy
           with the result and the price. "
       - author: Jane Roe
-        avatar: images/review2.jpg
-        content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+        avatar: ""
+        content: Tom completed our RV roof in no time and we are so thankful!
       - author: Richard Roe
-        avatar: images/review3.jpg
-        content: Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+        avatar: ""
+        content: Trustworthy and worth the price. These guys to great work.
   - type: section_cta
     title: Call Us Now For A Free Estimate In Minutes
     section_id: call-to-action
