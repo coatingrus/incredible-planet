@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_hero
-    title: Have Your Roof Coated for A Fraction Of The Cost Of Replacment!
+    title: "Have Your Roof Coated for A Fraction Of The Cost Of Replacement "
     section_id: hero
     content: >-
       Save yourself thousands by using our service. Have peace of mind with our
