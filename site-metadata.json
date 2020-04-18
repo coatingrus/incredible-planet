@@ -12,11 +12,7 @@
       },
       {
         "label": "Features",
-        "url": "/features"
-      },
-      {
-        "label": "Pricing",
-        "url": "/pricing"
+        "url": "/"
       },
       {
         "label": "Call Now",
@@ -52,15 +48,11 @@
     "nav_links": [
       {
         "label": "About Us",
-        "url": "/about"
+        "url": "/"
       },
       {
         "label": "Call Now",
         "url": "signup"
-      },
-      {
-        "label": "Contact",
-        "url": "/contact"
       }
     ],
     "has_nav": true
