@@ -57,13 +57,6 @@ sections:
         actions:
           - label: Call Now
             url: /
-  - type: section_cta
-    title: Call Us Now For A Free Estimate In Minutes
-    section_id: call-to-action
-    subtitle: Let's get started and take that leak off your mind
-    actions:
-      - label: Call Now
-        url: '"tel:17272822954"'
   - type: section_reviews
     title: Testimonials
     section_id: reviews
@@ -83,5 +76,12 @@ sections:
         avatar: images/review3.jpg
         content: Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
+  - type: section_cta
+    title: Call Us Now For A Free Estimate In Minutes
+    section_id: call-to-action
+    subtitle: Let's get started and take that leak off your mind
+    actions:
+      - label: Call Now
+        url: '"tel:17272822954"'
 template: landing
 ---
