@@ -57,17 +57,23 @@ sections:
         actions:
           - label: Learn More
             url: /features
+  - type: section_cta
+    title: Call Us Now For A Free Estimate In Minutes
+    section_id: call-to-action
+    subtitle: Let's get started and take that leak off your mind
+    actions:
+      - label: Call Now
+        url: '"tel:17272822954"'
   - type: section_reviews
     title: Testimonials
     section_id: reviews
-    subtitle: "Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. "
+    subtitle: See What Our Customers Are Saying About Us
     background: white
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
-        content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-          non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: "Tom is great at what he does! Refinished my roof and I am very happy
+          with the result and the price. "
       - author: Jane Roe
         avatar: images/review2.jpg
         content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
@@ -77,12 +83,5 @@ sections:
         avatar: images/review3.jpg
         content: Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - type: section_cta
-    title: Call Us Now For A Free Estimate In Minutes
-    section_id: call-to-action
-    subtitle: Let's get started and take that leak off your mind
-    actions:
-      - label: Call Now
-        url: '"tel:17272822954"'
 template: landing
 ---
