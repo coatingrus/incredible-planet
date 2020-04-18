@@ -20,7 +20,7 @@ sections:
       * Driveways
 
       * And More!
-    image: /images/img_1914.jpg
+    image: /images/lastsharecollage.jpg
     actions:
       - label: Learn More
         url: "#features"
