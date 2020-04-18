@@ -16,7 +16,7 @@ sections:
     subtitle: See what we can do for you
     background: gray
     features:
-      - title: All The Comfort Of A New Roof At A Fraction Of The Cost
+      - title: All The Comfort Of A New Roof Without The Price
         content: Elastomeric coatings have been featured in [Article
           Insider](https://www.epdmcoatings.com/page99.html), as well as
           [Roofers Exchange](https://www.epdmcoatings.com/roofarticle.html),
