@@ -11,11 +11,11 @@ export default class Header extends React.Component {
           <div className="site-header-inside">
             <div className="site-branding">
               {_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img') &&
-                <div className="site-logo">
+                <p className="site-logo">
                   <Link to={safePrefix('/')}>
                     <img src={safePrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img'))} alt="Logo" />
                   </Link>
-                </div>
+                </p>
               }
               {((_.get(this.props, 'pageContext.frontmatter.template') === 'landing') || (_.get(this.props, 'pageContext.frontmatter.template') === 'blog')) ?
                 <h1 className="site-title"><Link to={safePrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title')}</Link></h1>
