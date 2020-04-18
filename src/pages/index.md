@@ -11,7 +11,7 @@ sections:
       - label: Learn More
         url: "#features"
   - type: section_features
-    title: Features
+    title: Services
     section_id: features
     subtitle: See what we can do for you
     background: gray
