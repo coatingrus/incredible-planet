@@ -29,7 +29,7 @@ sections:
         image: /images/img_1918-2.jpg
         actions:
           - label: Call Now
-            url: /features
+            url: /
       - title: 30 years of experience in North Central Flordia
         content: >-
           With over **30 years of experience** we have the knowledge to fix your
@@ -41,8 +41,8 @@ sections:
           **Our integrity and your satisfaction is very important to us.** This is why we have a minimum **10 year no-hassle warranty** on all our work.
         image: /images/image000000-1-copy.jpg
         actions:
-          - label: Learn More
-            url: /features
+          - label: Call Now
+            url: /
       - title: We only use GARDNER® STA-KOOL® ULTRA
         content: Gardner® Sta-Kool® Ultra, Elastomeric Premium White Roof Coating offers
           next generation solar protection with cool roof technology
@@ -55,8 +55,8 @@ sections:
           **reduced roof temperatures.**
         image: /images/gadner.jpg
         actions:
-          - label: Learn More
-            url: /features
+          - label: Call Now
+            url: /
   - type: section_cta
     title: Call Us Now For A Free Estimate In Minutes
     section_id: call-to-action
