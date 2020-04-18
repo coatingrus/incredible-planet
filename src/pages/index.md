@@ -2,10 +2,24 @@
 title: Home
 sections:
   - type: section_hero
-    title: A New Roof At A Fraction Of The Cost!
+    title: Have Your Roof Coated for A Fraction Of The Cost Of Replacment!
     section_id: hero
-    content: Save yourself thousands by using our service. Have peace of mind with
-      our Minimum 10 year guarantee
+    content: >-
+      Save yourself thousands by using our service. Have peace of mind with our
+      Minimum 10 year guarantee. Our Coating can be applied to:
+
+
+      * RVs
+
+      * Flat Roofs 
+
+      * Metal Roofs
+
+      * Trailers 
+
+      * Driveways
+
+      * And More!
     image: /images/img_1914.jpg
     actions:
       - label: Learn More
