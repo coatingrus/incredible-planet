@@ -53,7 +53,7 @@ sections:
 
 
           **Our integrity and your satisfaction is very important to us.** This is why we have a minimum **10 year no-hassle warranty** on all our work.
-        image: /images/image000000-1-copy.jpg
+        image: /images/rv2.jpg
         actions:
           - label: Call Now
             url: /
