@@ -9,7 +9,7 @@ sections:
     image: /images/img_1914.jpg
     actions:
       - label: Learn More
-        url: /features
+        url: "#features"
   - type: section_features
     title: Features
     section_id: features
