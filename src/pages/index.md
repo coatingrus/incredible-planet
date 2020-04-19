@@ -2,7 +2,11 @@
 title: Home
 sections:
   - type: section_hero
+<<<<<<< HEAD
     title: "Have Your Roof Coated for A Fraction Of The Cost Of Replacing It "
+=======
+    title: "Have Your Roof Coated For A Fraction Of The Cost Of Replacing it  "
+>>>>>>> 950044e751ac2c235b9c626d8d287f63f38ce979
     section_id: hero
     content: >-
       Save yourself thousands by using our service. Have peace of mind with our
@@ -20,7 +24,7 @@ sections:
       * Driveways
 
       * And More!
-    image: /images/img_1914.jpg
+    image: /images/lastsharecollage.jpg
     actions:
       - label: Learn More
         url: "#features"
@@ -53,7 +57,7 @@ sections:
 
 
           **Our integrity and your satisfaction is very important to us.** This is why we have a minimum **10 year no-hassle warranty** on all our work.
-        image: /images/image000000-1-copy.jpg
+        image: /images/rv2.jpg
         actions:
           - label: Call Now
             url: /
@@ -78,18 +82,15 @@ sections:
     background: white
     reviews:
       - author: John Doe
-        avatar: images/review1.jpg
+        avatar: ""
         content: "Tom is great at what he does! Refinished my roof and I am very happy
           with the result and the price. "
       - author: Jane Roe
-        avatar: images/review2.jpg
-        content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+        avatar: ""
+        content: Tom completed our RV roof in no time and we are so thankful!
       - author: Richard Roe
-        avatar: images/review3.jpg
-        content: Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+        avatar: ""
+        content: Trustworthy and worth the price. These guys to great work.
   - type: section_cta
     title: Call Us Now For A Free Estimate In Minutes
     section_id: call-to-action
