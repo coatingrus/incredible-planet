@@ -14,13 +14,13 @@ export default class SectionHero extends React.Component {
           <div className="grid">
             <Carousel
               autoplay={true} width={'25em'} height={'30em'} wrapAround={true} speed={200} dragging={true}>
-              <img src="https://photos.app.goo.gl/WdscECBHbE767zJF6" alt="Rv" />
-              <img src="https://photos.app.goo.gl/qa8EncWjEiGGd4scA" alt="RV" />
-              <img src="https://photos.app.goo.gl/hfbteqQsJ8AoSaUY8" alt="RV" />
-              <img src="https://photos.app.goo.gl/ch5XjWsuNwUmEHWs7" alt="RV" />
-              <img src="https://photos.app.goo.gl/ezgGjoxeRyMmrMk88" alt="Rv" />
-              <img src="https://photos.app.goo.gl/JiNzK3BwRdmfz87r5" alt="Rv" />
-              <img src="https://photos.app.goo.gl/CNvi3CeHaJ2qJFHj9" alt="RV" />
+              <img src="https://i.imgur.com/g1XMc2m.jpg" alt="Rv" />
+              <img src="https://i.imgur.com/XOOZoP8.jpg" alt="RV" />
+              <img src="https://i.imgur.com/7xGmLmi.jpg" alt="RV" />
+              <img src="https://i.imgur.com/FFqgQi8.jpg" alt="RV" />
+              <img src="https://i.imgur.com/FlN9PeD.jpg" alt="Rv" />
+              <img src="https://i.imgur.com/2zS9eMn.jpg" alt="Rv" />
+              <img src="https://i.imgur.com/uHxwTOe.jpg" alt="RV" />
             </Carousel>
             <div className="cell block-content">
               {_.get(section, 'title') &&
