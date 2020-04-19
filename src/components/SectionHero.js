@@ -13,7 +13,7 @@ export default class SectionHero extends React.Component {
         <div className="inner">
           <div className="grid">
             <Carousel
-              autoplay={true} width={'45%'} height={'30em'} wrapAround={true} speed={200} dragging={true}>
+              autoplay={true} width={'80vh'} height={'30em'} wrapAround={true} speed={200} dragging={true}>
               <img src="https://i.imgur.com/g1XMc2m.jpg" alt="Rv" />
               <img src="https://i.imgur.com/XOOZoP8.jpg" alt="RV" />
               <img src="https://i.imgur.com/7xGmLmi.jpg" alt="RV" />
