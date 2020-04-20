@@ -1,6 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
-import Carousel from 'nuka-carousel';
+import "react-responsive-carousel/lib/styles/carousel.min.css";
+import { Carousel } from 'react-responsive-carousel';
 
 import { markdownify } from '../utils';
 import ActionLink from './ActionLink';
@@ -13,14 +14,27 @@ export default class SectionHero extends React.Component {
         <div className="inner">
           <div className="grid">
             <Carousel
-              autoplay={true} width={500} height={'30em'} wrapAround={true} speed={200} dragging={true}>
-              <img src="https://i.imgur.com/g1XMc2m.jpg" alt="Rv" />
-              <img src="https://i.imgur.com/XOOZoP8.jpg" alt="RV" />
-              <img src="https://i.imgur.com/7xGmLmi.jpg" alt="RV" />
-              <img src="https://i.imgur.com/FFqgQi8.jpg" alt="RV" />
-              <img src="https://i.imgur.com/FlN9PeD.jpg" alt="Rv" />
-              <img src="https://i.imgur.com/2zS9eMn.jpg" alt="Rv" />
-              <img src="https://i.imgur.com/uHxwTOe.jpg" alt="RV" />
+              width={500} showArrows={true} dynamicHeight={true} autoPlay={true} >
+              <div>
+                <img src="https://i.imgur.com/g1XMc2m.jpg" alt="Rv" />
+
+              </div>
+              <div>
+                <img src="https://i.imgur.com/XOOZoP8.jpg" alt="RV" />
+
+              </div>
+              <div>
+                <img src="https://i.imgur.com/7xGmLmi.jpg" alt="RV" />
+
+              </div>
+              <div>
+                <img src="https://i.imgur.com/FFqgQi8.jpg" alt="RV" />
+
+              </div>
+              <div>
+                <img src="https://i.imgur.com/uHxwTOe.jpg" alt="RV" />
+
+              </div>
             </Carousel>
             <div className="cell block-content">
               {_.get(section, 'title') &&
