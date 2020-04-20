@@ -16,7 +16,7 @@
       },
       {
         "label": "Call Now",
-        "url": "/signup",
+        "url": "tel:3522106752",
         "primary": true
       }
     ]
