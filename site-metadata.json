@@ -16,7 +16,7 @@
       },
       {
         "label": "Call Now",
-        "url": "tel:3522106752",
+        "url": "#call-to-action",
         "primary": true
       }
     ]
