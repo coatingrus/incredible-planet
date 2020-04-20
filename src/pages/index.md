@@ -6,7 +6,7 @@ sections:
     section_id: hero
     content: >-
       Save yourself thousands by using our service. Have peace of mind with our
-      Minimum 10 year guarantee. Our Coating can be applied to:
+      Minimum 10 year warranty. Our Coating can be applied to:
 
 
       * RVs
@@ -16,8 +16,6 @@ sections:
       * Metal Roofs
 
       * Trailers 
-
-      * Driveways
 
       * And More!
     image: /images/lastsharecollage.jpg
@@ -47,8 +45,8 @@ sections:
       - title: 30 years of experience in North Central Flordia
         content: >-
           With over **30 years of experience** we have the knowledge to fix your
-          problem right the first time. Located in Newberry Florida we are
-          central in the tri-county area and ready to be there for you when you
+          problem right the first time. Located in Trenton Florida we are
+          centrally located in the tri-county area and ready to be there for you when you
           need us most.  
 
 
@@ -57,7 +55,7 @@ sections:
         actions:
           - label: Call Now
             url: /
-      - title: We only use GARDNER® STA-KOOL® ULTRA
+      - title: We only use GARDNER® Products
         content: Gardner® Sta-Kool® Ultra, Elastomeric Premium White Roof Coating offers
           next generation solar protection with cool roof technology
           enhancements. Sta-Kool® Ultra helps **block heat-causing sunlight**
@@ -77,14 +75,14 @@ sections:
     subtitle: See What Our Customers Are Saying About Us
     background: white
     reviews:
-      - author: John Doe
+      - author: Ron Johnson
         avatar: ""
         content: "Tom is great at what he does! Refinished my roof and I am very happy
           with the result and the price. "
-      - author: Jane Roe
+      - author: Jane Oliver
         avatar: ""
         content: Tom completed our RV roof in no time and we are so thankful!
-      - author: Richard Roe
+      - author: Richard Franks
         avatar: ""
         content: Trustworthy and worth the price. These guys to great work.
   - type: section_cta
