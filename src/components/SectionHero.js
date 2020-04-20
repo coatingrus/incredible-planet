@@ -13,25 +13,25 @@ export default class SectionHero extends React.Component {
       <section id={_.get(section, 'section_id')} className="block hero-block bg-accent outer">
         <div className="inner">
           <div className="grid">
-            <Carousel className="cell block-preview"
+            <Carousel className="cell"
               width={500} showArrows={true} autoPlay={true} >
-              <div >
+              <div className="cell block-preview">
                 <img src="https://i.imgur.com/g1XMc2m.jpg" alt="Rv" />
 
               </div>
-              <div >
+              <div className="cell block-preview">
                 <img src="https://i.imgur.com/XOOZoP8.jpg" alt="RV" />
 
               </div>
-              <div >
+              <div className="cell block-preview">
                 <img src="https://i.imgur.com/7xGmLmi.jpg" alt="RV" />
 
               </div>
-              <div >
+              <div className="cell block-preview">
                 <img src="https://i.imgur.com/FFqgQi8.jpg" alt="RV" />
 
               </div>
-              <div >
+              <div className="cell block-preview">
                 <img src="https://i.imgur.com/uHxwTOe.jpg" alt="RV" />
 
               </div>
