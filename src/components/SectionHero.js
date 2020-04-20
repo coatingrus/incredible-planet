@@ -14,7 +14,7 @@ export default class SectionHero extends React.Component {
         <div className="inner">
           <div className="grid">
             <Carousel
-              width={500} showArrows={true} dynamicHeight={true} autoPlay={true} >
+              width={400} showArrows={true} autoPlay={true} >
               <div>
                 <img src="https://i.imgur.com/g1XMc2m.jpg" alt="Rv" />
 
