@@ -30,7 +30,7 @@ sections:
           advantages to the product vs other roof coatings. It waterproof as
           soon as it is applied, will take standing water indefinitely yes that
           means 365 days a year of continued ponding water.
-        image: /images/lastsharecollage-5.jpg
+        image: /images/img_1939.png
         actions:
           - label: Call Now
             url: /
