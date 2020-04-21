@@ -80,7 +80,7 @@ sections:
   - type: section_cta
     title: Call Us Now For A Free Estimate
     section_id: call-to-action
-    subtitle: Let's get started and **take that leak off your mind**
+    subtitle: Let's get started and take that leak off your mind
     actions:
       - label: Call Now
         url: '"tel:13522106752"'
