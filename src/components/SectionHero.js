@@ -15,23 +15,23 @@ export default class SectionHero extends React.Component {
           <div className="grid">
             <Carousel className='cell block-preview' showArrows={true} autoPlay={true} >
               <div >
-                <img src="https://i.imgur.com/m1ERFaYs.jpg" alt="Rv" />
+                <img src="https://i.imgur.com/m1ERFaY.jpg?1" alt="Rv" />
 
               </div>
               <div >
-                <img src="https://i.imgur.com/ALd0L31s.jpg" alt="RV" />
+                <img src="https://i.imgur.com/lsqXBa6b.png?2" alt="RV" />
 
               </div>
               <div >
-                <img src="https://i.imgur.com/lsqXBa6s.png" alt="RV" />
+                <img src="https://i.imgur.com/ALd0L31b.jpg?2" alt="RV" />
 
               </div>
               <div >
-                <img src="https://i.imgur.com/FFqgQi8s.jpg" alt="RV" />
+                <img src="https://i.imgur.com/FFqgQi8b.jpg?2" alt="RV" />
 
               </div>
               <div >
-                <img src="https://i.imgur.com/uHxwTOes.jpg" alt="RV" />
+                <img src="https://i.imgur.com/FFqgQi8b.jpg?2" alt="RV" />
 
               </div>
             </Carousel>
