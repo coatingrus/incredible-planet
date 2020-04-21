@@ -79,7 +79,7 @@ sections:
         content: Tom completed our RV roof in no time and we are so thankful!
       - author: Richard Franks
         avatar: ""
-        content: Trustworthy and worth the price. These guys to great work.
+        content: Trustworthy and worth the price. These guys do great work.
   - type: section_cta
     title: Call Us Now For A Free Estimate
     section_id: call-to-action
