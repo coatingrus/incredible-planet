@@ -20,7 +20,7 @@ sections:
       * Horse Trailers               
 
       * Utility Trailers              
-    image: /images/lastsharecollage.jpg
+    image: ""
     actions:
       - label: Learn More
         url: "#features"
