@@ -23,7 +23,7 @@ export default class SectionHero extends React.Component {
 
               </div>
               <div >
-                <img src="https://i.imgur.com/ALd0L31b.jpg?2" alt="RV" />
+                <img src="https://i.imgur.com/ALd0L31.jpg?3" alt="RV" />
 
               </div>
               <div >
