@@ -27,11 +27,11 @@ export default class SectionHero extends React.Component {
 
               </div>
               <div >
-                <img src="https://i.imgur.com/FFqgQi8b.jpg?2" alt="RV" />
+                <img src="https://i.imgur.com/XOOZoP8.jpg?3" alt="RV" />
 
               </div>
               <div >
-                <img src="https://i.imgur.com/FFqgQi8b.jpg?2" alt="RV" />
+                <img src="https://i.imgur.com/TdUjoujb.jpg" alt="RV" />
 
               </div>
             </Carousel>
