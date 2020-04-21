@@ -42,7 +42,7 @@ sections:
           when you need us most.  
 
 
-          **Our integrity and your satisfaction is very important to us.** This is why we have a minimum **10 year no-hassle warranty** on all our work.
+          **Our integrity and your satisfaction is very important to us.** This is why we have a minimum **10 year No-Hassle Warranty** on all our work.
         image: /images/rv2.jpg
         actions:
           - label: Call Now
@@ -78,9 +78,9 @@ sections:
         avatar: ""
         content: Trustworthy and worth the price. These guys to great work.
   - type: section_cta
-    title: Call Us Now For A Free Estimate In Minutes
+    title: Call Us Now For A Free Estimate
     section_id: call-to-action
-    subtitle: Let's get started and take that leak off your mind
+    subtitle: Let's get started and **take that leak off your mind**
     actions:
       - label: Call Now
         url: '"tel:13522106752"'
