@@ -2,22 +2,24 @@
 title: Home
 sections:
   - type: section_hero
-    title: "Have Your Roof Coated for A Fraction Of The Cost Of Replacing It "
+    title: "Have Your Roof Coated for A Fraction Of The Cost Instead Of Replacing It "
     section_id: hero
     content: >-
       Save yourself thousands by using our service. Have peace of mind with our
       Minimum 10 year warranty. Our Coating can be applied to:
 
 
-      * RVs
 
-      * Flat Roofs 
 
-      * Metal Roofs
+      * RVs                          * Metal Structures     
 
-      * Trailers 
+      * Motor Homes                  * Flat Roofs
 
-      * And More!
+      * Campers                      * Metal Roofs
+
+      * Horse Trailers               * Asphalt Shingles
+
+      * Utility Trailer              * EBDM Rubber Roofs
     image: /images/lastsharecollage.jpg
     actions:
       - label: Learn More
@@ -46,8 +48,8 @@ sections:
         content: >-
           With over **30 years of experience** we have the knowledge to fix your
           problem right the first time. Located in Trenton Florida we are
-          centrally located in the tri-county area and ready to be there for you when you
-          need us most.  
+          centrally located in the tri-county area and ready to be there for you
+          when you need us most.  
 
 
           **Our integrity and your satisfaction is very important to us.** This is why we have a minimum **10 year no-hassle warranty** on all our work.
