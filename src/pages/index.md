@@ -11,15 +11,10 @@ sections:
 
 
 
-      * RVs                              
+      ![](/images/screen-shot-2020-04-20-at-8.27.08-pm.png)
 
-      * Motor Homes                 
 
-      * Campers                    
-
-      * Horse Trailers               
-
-      * Utility Trailers              
+      \
     image: ""
     actions:
       - label: Learn More
