@@ -42,6 +42,9 @@ sections:
           when you need us most.  
 
 
+          We offer service to both commercial and residential. We also offer wholesale pricing to RV Dealers. Call for more information.
+
+
           **Our integrity and your satisfaction is very important to us.** This is why we have a minimum **10 year No-Hassle Warranty** on all our work.
         image: /images/rv2.jpg
         actions:
