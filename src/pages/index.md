@@ -11,15 +11,15 @@ sections:
 
 
 
-      * RVs                          * Metal Structures     
+      * RVs                              
 
-      * Motor Homes                  * Flat Roofs
+      * Motor Homes                 
 
-      * Campers                      * Metal Roofs
+      * Campers                    
 
-      * Horse Trailers               * Asphalt Shingles
+      * Horse Trailers               
 
-      * Utility Trailer              * EBDM Rubber Roofs
+      * Utility Trailers              
     image: /images/lastsharecollage.jpg
     actions:
       - label: Learn More
