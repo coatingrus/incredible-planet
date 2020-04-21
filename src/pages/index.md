@@ -9,7 +9,7 @@ sections:
       Minimum 10 year warranty. Our Coating can be applied to:
 
 
-      ![](/images/screen-shot-2020-04-20-at-8.27.08-pm.png)
+      ![](/images/screen-shot-2020-04-20-at-8.43.08-pm.png)
     image: ""
     actions:
       - label: Learn More
